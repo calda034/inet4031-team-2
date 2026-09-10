@@ -28,7 +28,7 @@
 Every team member must hold Scrum Master, System Admin, and QA at least once across the seven sprints. Fill in this table using what you jotted down in your Google Docs:
 
 ```
-Sprint 1: Scrum Master = Dane, System Admin = Santiago, QA = ___, Developers = ___
+Sprint 1: Scrum Master = Santiago, System Admin = , QA = ___, Developers = ___
 Sprint 2: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
 Sprint 3: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
 Sprint 4: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
