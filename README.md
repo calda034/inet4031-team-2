@@ -18,8 +18,11 @@ observability, security hardening, and backup/recovery.
 |------|-------|--------|-----------------|
 | Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
 | Andrew | rakow033@umn.edu | rakow033 | Scrum Master |
-| Jacob | empti006@umn.edu | empti006| Developer|
+| Jacob | empti006@umn.edu | empti006| QA|
+| Aneela | empti006@umn.edu | empti006| Developer|
 | Reina Ganter | gante031@umn.edu | gante031| Developer|
+
+
 
 See `team-charter.md` for role assignments and the 7-sprint rotation schedule.
 
