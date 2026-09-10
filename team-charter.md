@@ -11,7 +11,7 @@
 | Name | Email | GitHub | Role (Sprint 1) |
 |------|-------|--------|-----------------|
 | Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
-| Andrew | |  | |
+| Andrew | rakow033@umn.edu |  | |
 | Jakob |  | | |
 | Reina Ganter | gante031@umn.edu | | |
 
