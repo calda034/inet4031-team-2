@@ -12,7 +12,7 @@
 |------|-------|--------|-----------------|
 | Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
 | Andrew | rakow033@umn.edu | rakow033 | Scrum Master |
-| Jacob | empti006@umn.edu | empti006| Developer|
+| Jacob | empti006@umn.edu | empti006| QA|
 | Reina Ganter | gante031@umn.edu | gante031| Developer|
 
 
@@ -40,8 +40,8 @@ Sprint 7: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
 
 ## Communication Norms
 
-- **Where we talk:** [team chat / channel]
-- **Merges and breakage:** [how we notify each other]
-- **Response time:** [normal / when someone is blocked]
-- **PR reviews:** [who reviews and how fast]
+- **Where we talk:** Google Chat.
+- **Merges and breakage:** Updates will be notified in the previous week before sprinnt switch.
+- **Response time:** 24/48 Hrs - Depending on deadline on day of the week/deadline for assignment.
+- **PR reviews:** QA (Jacob) reviews final edits before full commit.
 
