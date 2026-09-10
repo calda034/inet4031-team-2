@@ -10,12 +10,12 @@
 
 | Name | Email | GitHub | Role (Sprint 1) |
 |------|-------|--------|-----------------|
-| Dane DeGiacomo | degia005@umn.edu | degia005 | Scrum Master |
-| Santiago Caldas Quiroga | calda034@umn.edu | calda034 | System Admin |
-| Nazariah Makpo | makpo002@umn.edu | makpo002-cpu | |
-| Neshy Waakuwa | waaku001@umn.edu | neshylia17 | |
+| | |  | Scrum Master |
+| Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
+| Andrew | |  | |
+| Jakob |  | | |
 | Reina Ganter | gante031@umn.edu | | |
-| Shanna Nunez | nunez192@umn.edu | nunez192 | |
+
 
 ## Role One-Sentence Descriptions
 
