@@ -1,4 +1,4 @@
-# INET 4031: Team [number] Repository
+# INET 4031: Team 2 Repository
 
 This is the semester-long repository for our team's INET 4031 Systems Administration
 project: an incident-tracking application built and operated across nine weeks,
@@ -9,18 +9,17 @@ observability, security hardening, and backup/recovery.
 
 ## Team
 
-**Team Name:** [To be filled]
+**Team Name:** ???
 
-**Team Number:** [Enter number provided by professor]
+**Team Number:** 2
 
 **Roster:**
-
-| Name |
-|------|
-| |
-| |
-| |
-| |
+| Name | Email | GitHub | Role (Sprint 1) |
+|------|-------|--------|-----------------|
+| Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
+| Andrew | |  | |
+| Jakob |  | | |
+| Reina Ganter | gante031@umn.edu | | |
 
 See `team-charter.md` for role assignments and the 7-sprint rotation schedule.
 
