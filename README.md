@@ -17,7 +17,7 @@ observability, security hardening, and backup/recovery.
 | Name | Email | GitHub | Role (Sprint 1) |
 |------|-------|--------|-----------------|
 | Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
-| Andrew | rakow033@umn.edu | rakow033 | Scrum Master |
+| Andrew | rakow033@umn.edu | rakow033 | System Admin |
 | Jacob | empti006@umn.edu | empti006| QA|
 | Aneela | empti006@umn.edu | empti006| Developer|
 | Reina Ganter | gante031@umn.edu | gante031| Developer|
