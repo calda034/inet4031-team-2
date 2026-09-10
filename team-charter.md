@@ -13,6 +13,7 @@
 | Santiago Caldas Quiroga | calda034@umn.edu | calda034 | Scrum Master |
 | Andrew | rakow033@umn.edu | rakow033 | Scrum Master |
 | Jacob | empti006@umn.edu | empti006| QA|
+| Aneela | empti006@umn.edu | empti006| QA|
 | Reina Ganter | gante031@umn.edu | gante031| Developer|
 
 
