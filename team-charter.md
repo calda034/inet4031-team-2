@@ -2,9 +2,9 @@
 
 ## Team Identity
 
-**Team Name:** Team 5
+**Team Name:** Team 2
 
-**Team Number:** 5
+**Team Number:** 2
 
 **Full Roster:**
 
@@ -37,13 +37,6 @@ Sprint 6: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
 Sprint 7: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
 ```
 
-## Three Team Operating Agreements
-
-1. **Playbook changes:** All changes to `ansible/` go through a reviewed pull request, and only the System Admin runs `ansible-playbook` against the shared container after the merge. Nobody applies an unmerged playbook to the container.
-
-2. **Merge conflicts:** Whoever opened the later pull request pulls `main`, resolves the conflict on their branch, and pings the other author in chat before merging. We do not force push to `main`.
-
-3. **When the container acts up:** Stop, post what you were doing and what you saw in the chat, and do not try to fix it alone. The System Admin leads the troubleshooting, and anything fixed by hand gets written into `docs/week-01-environment-log.md` and folded back into the playbook so the fix is reproducible.
 
 ## Communication Norms
 
@@ -52,18 +45,3 @@ Sprint 7: Scrum Master = ___, System Admin = ___, QA = ___, Developers = ___
 - **Response time:** [normal / when someone is blocked]
 - **PR reviews:** [who reviews and how fast]
 
-## Container Baseline
-
-Filled in by the System Admin during Part 3. Full command output lives in `docs/week-01-environment-log.md`.
-
-| Item | Value |
-|------|-------|
-| Access method | [SSH / docker exec] |
-| OS and version | [from `cat /etc/os-release`] |
-| Disk space available on / | [from `df -h`] |
-| docker | [installed / missing] |
-| git | [installed / missing] |
-| python3 | [installed / missing] |
-| curl | [installed / missing] |
-| ansible | [installed / missing] |
-| Docker daemon | [from `docker info`: server version, storage driver] |
