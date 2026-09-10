@@ -9,7 +9,7 @@ observability, security hardening, and backup/recovery.
 
 ## Team
 
-**Team Name:** ???
+**Team Name:** ??? ( wil be determined on week 2 - for now we are just named Group 2)
 
 **Team Number:** 2
 
