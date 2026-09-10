@@ -44,7 +44,7 @@ repo, it will never replace this repository.
 
 ## Team Documents
 
-**Google Doc:** [Google Doc link will go here]
+**Google Doc:** (https://docs.google.com/document/d/1qyfM-OhCCTKmxhWYs9KKa2OiGQjd8VhcJVnPRQ_vumk/edit?usp=drive_link)
 
 All sprint reflections, screenshots, and storage-check output are recorded in this
 document as each week's wiki directions require.
